@@ -24,8 +24,9 @@ const translations = {
     itTitle: "IT Technician",
     it: "After receiving my CompTIA A+ certification, I became a certified IT technician and started working with an amazing team of professionals at SPEED in Egypt. My role was to help customers with their technical issues at home and in-store.",
     it2: "Worked with computer repair, computer service (software and hardware), mobile phone service, troubleshooting networks for customers and cashier work",
-
-    // Skills
+	journey: "I had the chance to have an internship with The Great Journey in Karlstad to practice game design. We worked in a small team to program a finished game in a few month which was presented at an event for everyone to try.",
+    journeyTitle: "Game Design - Internship",
+	// Skills
     skills: "IT Skills",
     projects: "Projects",
     reference: "References",
@@ -94,8 +95,9 @@ const translations = {
     itTitle: "IT-tekniker",
     it: "Efter att jag fått CompTIA A+ certifiering blev jag certifierad IT-tekniker och började arbeta med ett fantastiskt team av proffs på SPEED i Egypten. Min uppgift var att hjälpa kunder med deras tekniska problem hemma och i butiken.",
     it2: "Arbetade med reparation av datorer, datorservice(mjukvara och hårdvara), mobiltelefonservice, felsöka nätverk för kunder och kassaarbete.",
-
-    // Skills
+	journey: "Jag hade chansen att göra en praktik hos The Great Journey i Karlstad för att öva på speldesign. Vi arbetade i ett litet team för att programmera ett färdigt spel på några månader, vilket presenterades vid ett evenemang där alla kunde testa det.",
+    journeyTitle: "Speldesign - Praktik",
+	// Skills
     skills: "IT-kunskaper",
     projects: "Projekt",
     reference: "Referenser",
