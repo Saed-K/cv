@@ -535,8 +535,8 @@ footer {
   overflow: hidden;
   white-space: nowrap;
   border-right: 3px solid var(--accent);
-  animation: typing 3.5s steps(40, end), blink-caret 0.75s step-end infinite;
-  display: inline-block;
+  animation: typing 3.5s steps(40, end), blink-caret 0.75s step-end infinite !important;
+  display: inline-block !important;
 }
 
 @keyframes typing {
