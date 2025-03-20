@@ -296,11 +296,13 @@ footer {
   opacity: 0;
   transform: translateY(20px);
   transition: var(--transition);
+  z-index: 100;
 }
 
 .scroll-to-top.visible {
   opacity: 1;
   transform: translateY(0);
+  z-index: 100;
 }
 
 .progress-bar {
