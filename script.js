@@ -1,6 +1,7 @@
 const translations = {
   en: {
     // Header
+	pbLink: "Personal Letter",
     profileTitle: "",
     // About Me
     aboutMeTitle: "About Me",
@@ -67,10 +68,12 @@ const translations = {
     messagePlaceholder: "Your Message",
     sendButton: "Send Message",
     sending: "Sending...",
+	downButton: "Download",
     // Footer
     copyright: "All rights reserved.",
   },
   sv: {
+    pbLink: "Personligt Brev",
     // Header
     profileTitle: "",
     // About Me
@@ -138,6 +141,7 @@ const translations = {
     messagePlaceholder: "Ditt Meddelande",
     sendButton: "Skicka Meddelande",
     skickar: "Skickar...",
+	downButton: "Ladda ner",
     // Footer
     copyright: "Alla rättigheter förbehållna.",
   },
