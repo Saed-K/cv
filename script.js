@@ -8,11 +8,13 @@ const translations = {
     aboutMeText:
       "A positive, efficient and responsible person with a background in computer science and IT. I have experience in both technical and customer service-related roles.",
     workExperienceContainerTitle: "Work Experience",
-    projectsHeader: "Below are some of my IT projects:",
+    projectsHeader: "Below are some of my IT projects during my studies:",
     projectsFooter: "Aside from designing this website for my CV, more projects are available on my ",
     projectsFooter2: " page.",
 
     //experience
+	itprojektTitle: "Freelance IT consultant",
+	itprojekt: "Worked for a local small store in Åmål implementing short-term IT projects. Tasks included networking solution, implementation of surveillance systems with PoE cameras, user training for both systems and troubleshooting technical issues. Focus was on creating user-friendly solutions while designing reliable systems for future workflows.",
     studentAssistantTitle: "Teaching Assistant",
     studentAssistant:
       "I worked as a teaching assistant at Höglundaskolan while I was finishing my degree. I supported and helped students in their daily schooling.",
@@ -81,11 +83,13 @@ const translations = {
     aboutMeText:
       "En positiv, effektiv och ansvarande person med en bakgrund inom datavetenskap och IT. Jag har erfarenhet av både tekniska och kundservice-relaterade roller.",
     workExperienceContainerTitle: "Arbetslivserfarenhet",
-    projectsHeader: "Nedan följer några av mina IT-projekt:",
+    projectsHeader: "Nedan följer några av mina IT-projekt under mina studier:",
     projectsFooter: "Förutom att designa den här webbplatsen för mitt CV, finns fler projekt på min ",
     projectsFooter2: " websida.",
 
     //experience
+	itprojektTitle: "Frilansande IT-konsult",
+	itprojekt: "Arbetade för ett lokalt små butik i Åmål med att genomföra kortsiktiga IT-projekt. Arbetsuppgifter inkluderade nätverkslösningar, implementering av övervakningssystem med PoE-kameror, användarutbildning för båda systemen samt felsökning av tekniska problem. Fokus låg på att skapa användarvänliga lösningar samtidigt som tillförlitliga system utformades för framtida arbetsflöden.",
     studentAssistantTitle: "Elevassistent",
     studentAssistant:
       "Jag jobbade som elevassistent på Höglundaskolan medan jag avslutade min examen. Jag stöttade och hjälpte elever i deras dagliga skolgång.",
